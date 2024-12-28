@@ -129,7 +129,6 @@ img {
   border-color: var(--color-brand2);
 }
 
-
 /* Card */
 .card-custom .card-custom-image {
   overflow: hidden;
@@ -162,7 +161,6 @@ img {
 #contact input.form-control {
   height: 44px;
 }
-
 
 /* Sosmed Icons */
 .social-icons a {
